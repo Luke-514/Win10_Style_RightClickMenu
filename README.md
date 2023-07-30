@@ -1,0 +1,2 @@
+# Win10_Style_RightClickMenu
+Windows11の右クリックメニューを従来版に戻すレジストリファイル
